@@ -57,7 +57,6 @@ class MainActivity : AppCompatActivity(), UsersAdapter.OnUserClickListener {
         getUser()
         checkForBaterryOptimizations()
         checkXiaomi()
-
     }
 
 
