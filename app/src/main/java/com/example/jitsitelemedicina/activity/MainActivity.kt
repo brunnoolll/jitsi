@@ -39,6 +39,7 @@ class MainActivity : AppCompatActivity(), UsersAdapter.OnUserClickListener {
         PreferenceManager(this)
     }
 
+
     lateinit var adapter: UsersAdapter
     lateinit var usersLista: ArrayList<Users>
 
