@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "303920281682",
+    "project_id": "telemedicina-a5715",
+    "storage_bucket": "telemedicina-a5715.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303920281682:android:31204a3adff136f83a878b",
+        "android_client_info": {
+          "package_name": "com.example.jitsitelemedicina"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303920281682-g6h5uiuak0rq977l5kfsfv866maoh3u0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9a7YiJENZyc5r5a-vOsfvaU-sB6j7lpA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303920281682-g6h5uiuak0rq977l5kfsfv866maoh3u0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
